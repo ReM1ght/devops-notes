@@ -1,12 +1,10 @@
 # DevOps Notes
 
-This is a personal repository for storing notes, practical solutions, and study materials on the path to becoming a DevOps engineer. All documentation is written in Markdown and synchronized via Git.
-
----
+Short notes and commands collected while learning DevOps and Linux system administration.
 
 ## Contents
 
-* **bandit.md** - Notes and writeups for OverTheWire Bandit levels.
-* **git.md** - Core concepts, commands, and workflows in Git.
-
-*This list is updated as I progress through the learning path.*
+| File | Topic |
+| --- | --- |
+| [`bandit.md`](bandit.md) | OverTheWire Bandit exercises |
+| [`git.md`](git.md) | Git commands and workflows |
